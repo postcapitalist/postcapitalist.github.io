@@ -16407,7 +16407,7 @@ a {
     justify-content: flex-start;
   }
   .cid-svZ0zDE8NR .content-wrap {
-    width: 100%;
+    width: 53%;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
@@ -16565,6 +16565,18 @@ a {
 }
 .cid-svZ2HWtc8h H3 {
   color: #353535;
+}
+.cid-svZc52xyR2 {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #353535;
+}
+.cid-svZc52xyR2 .mbr-text {
+  color: #c1c1c1;
+}
+.cid-svZc52xyR2 H3 {
+  text-align: center;
+  color: #bbbbbb;
 }
 .cid-svZ1OvqDug {
   padding-top: 6rem;
