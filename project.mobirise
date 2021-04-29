@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Postcapitalist.Design",
-    "currentPage": "page18.html",
+    "name": "postcapitalist.design",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -54,18 +54,20 @@
       }
     ],
     "imageResize": true,
-    "favicon": false,
-    "mbrsiteDomain": "4bowlx300p",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "favicon": "@PROJECT_PATH@/assets/images/img-1610-128x128.png",
+    "mbrsiteDomain": "postcapitalistdesign",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "http://postcapitalist.design",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 328,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "google-analytics": "  <!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-4EEZG2MHPD\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-4EEZG2MHPD');\n</script>",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
